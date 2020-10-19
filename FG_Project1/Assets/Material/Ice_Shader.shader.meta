@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: dacbafcc5c3cdb04b9bf7d16925ccc86
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _T_Ice_Stripes: {fileID: 2800000, guid: 1f5046feb96a2e847b22952ec4098a11, type: 3}
+  - _T_Clouds_2: {fileID: 2800000, guid: a48388a484839cc4aaaa84ef90b7fa0c, type: 3}
+  - _T_Ice_TopSnow: {fileID: 2800000, guid: c7dca8b56826c1b488f54304a42f456c, type: 3}
+  - _gradient_Circle: {fileID: 2800000, guid: c6adeecc4728fd9499963762df89f3b2, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

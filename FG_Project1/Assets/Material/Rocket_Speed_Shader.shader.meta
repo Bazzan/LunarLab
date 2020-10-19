@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 91458002419b279418bc7c7c69d37c0f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _T_Clouds_2: {fileID: 2800000, guid: a48388a484839cc4aaaa84ef90b7fa0c, type: 3}
+  - _T_Clouds_3: {fileID: 2800000, guid: a48388a484839cc4aaaa84ef90b7fa0c, type: 3}
+  - _SemiSphere_Mask: {fileID: 2800000, guid: 92b643e568783944fb6816af5d0d591f, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7af180bb2c3a12f48957c205a9766d5b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Lightning_output: {fileID: 2800000, guid: 285d15bcbe54a8a4894a815deb10a3ea, type: 3}
+  - _T_Clouds_2: {fileID: 2800000, guid: a48388a484839cc4aaaa84ef90b7fa0c, type: 3}
+  - _TextureSample0: {fileID: 2800000, guid: a48388a484839cc4aaaa84ef90b7fa0c, type: 3}
+  - _Gradient_Bottom_TEST1: {fileID: 2800000, guid: 53f8b72c648ffdd43849f8502f359b5d, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

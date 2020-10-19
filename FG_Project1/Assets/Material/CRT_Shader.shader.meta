@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 6e3358cffcd9dc54e840c6149955f90f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _T_Clouds_2: {fileID: 2800000, guid: a48388a484839cc4aaaa84ef90b7fa0c, type: 3}
+  - _ScanLine_Alpha: {fileID: 2800000, guid: add8ae63d91284244a878ca7fc3cbd88, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
