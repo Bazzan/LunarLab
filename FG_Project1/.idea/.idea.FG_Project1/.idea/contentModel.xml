@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\GithubSpace\LunarLab\FG_Project1" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AmplifyMaterial" t="Include">
+          <e p="GravityFlow.shader" t="Include" />
+          <e p="Ice_Shader.shader" t="Include" />
+        </e>
+        <e p="Editor" t="Include">
+          <e p="DeadlyRingEditor.cs" t="Include" />
+          <e p="GravityEditor.cs" t="Include" />
+          <e p="LeaderboardEditor.cs" t="Include" />
+        </e>
+        <e p="Material" t="Include">
+          <e p="CRT_Shader.shader" t="Include" />
+          <e p="GravityFlow.shader" t="Include" />
+          <e p="GravityFlowUp.shader" t="Include" />
+          <e p="Ice_Shader.shader" t="Include" />
+          <e p="Rocket_Speed_Shader.shader" t="Include" />
+          <e p="RROD.shader" t="Include" />
+          <e p="Vortex_Shader.shader" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="CameraController.cs" t="Include" />
+          <e p="CameraOffsetZone.cs" t="Include" />
+          <e p="CharacterController.cs" t="Include" />
+          <e p="CheckPoint.cs" t="Include" />
+          <e p="CheckPointManager.cs" t="Include" />
+          <e p="DisplayLeaderboard.cs" t="Include" />
+          <e p="Door.cs" t="Include" />
+          <e p="Dummy.cs" t="Include" />
+          <e p="Goal.cs" t="Include" />
+          <e p="GravityFlipper.cs" t="Include" />
+          <e p="Heatpad.cs" t="Include" />
+          <e p="HighSpeedVFX.cs" t="Include" />
+          <e p="IGravitable.cs" t="Include" />
+          <e p="Leaderboard.cs" t="Include" />
+          <e p="Level Tools" t="Include">
+            <e p="DeadlyRing.cs" t="Include" />
+            <e p="GravityAffecter.cs" t="Include" />
+          </e>
+          <e p="LightColorSwap.cs" t="Include" />
+          <e p="LostControlZone.cs" t="Include" />
+          <e p="Menu Scripts" t="Include">
+            <e p="MainMenuController.cs" t="Include" />
+            <e p="PlayerSettings.cs" t="Include" />
+          </e>
+          <e p="MultiplePadLock.cs" t="Include" />
+          <e p="PlayAllVFX.cs" t="Include" />
+          <e p="PlayerDie.cs" t="Include" />
+          <e p="PlayerInput.cs" t="Include" />
+          <e p="Projectile.cs" t="Include" />
+          <e p="ProjectileShooter.cs" t="Include" />
+          <e p="ResetHelper.cs" t="Include" />
+          <e p="RotateForever.cs" t="Include" />
+          <e p="SimpleShipParticle.cs" t="Include" />
+          <e p="SPIN.cs" t="Include" />
+          <e p="Thruster.cs" t="Include" />
+          <e p="ThrusterSoundOnImput.cs" t="Include" />
+          <e p="ThrustMeterZone.cs" t="Include" />
+          <e p="TriggerInvoker.cs" t="Include" />
+          <e p="UiHealth.cs" t="Include" />
+          <e p="UiTimer.cs" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="FG_Project1.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Sebastian.Akerlund\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Sebastian.Akerlund\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_FG_Project1.-1137002723.00" t="ExcludeRecursive" />
+  </component>
+</project>
